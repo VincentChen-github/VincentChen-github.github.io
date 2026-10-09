@@ -1,1 +1,3 @@
 class="timeline"><div class="date">2027.09 — 2031.06</div><div><h3>Tsinghua University</h3><p>Planned Ph.D. · Information and Communication Engineering</p><p class="muted">Shenzhen International Graduate School · Advisor: Assoc. Prof. Yuhan Dong</p><span class="badge">Future plan</span></div></article><article 
+
+<div class="skills"><div><h3>Programming</h3><p>C / C++ · Python · Verilog / SystemVerilog · MATLAB · TCL · LaTeX</p></div><div><h3>Hardware Tools</h3><p>Vivado / Vitis · Verilator / GTKWave · Verdi / VCS · Design Compiler · Virtuoso · KLayout</p></div></div>
