@@ -28,3 +28,7 @@
 确认后提交并同步到 GitHub；线上页面的更新取决于仓库的 GitHub Pages 部署状态。
 
 页面样式在 `style.css`，导航高亮逻辑在 `app.js`。
+
+
+直连github会出错，所以需要先修改vpn代理。
+git config --local http.proxy http://127.0.0.1:7890
